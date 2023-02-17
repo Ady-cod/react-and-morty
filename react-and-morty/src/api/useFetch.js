@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 
 /**
      Fetch data from the given url. If it can't get any data from the url, than it writes a message into the console.
